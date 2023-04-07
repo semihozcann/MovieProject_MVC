@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Uw2VNO6Cmf+pGt54HDe+sd+r49p9c1VsmwlhMHxl0GrswBhf2OZtwzy61uV6gxBWHtE70eQN8toahl2nex3qfA==",
+  "dgSpecHash": "M1fFmml7zGpVXFz1N5DJ1TxxDK7FbgDnInL1zBsBsr0e2iONWNs5zUVXxegjXa4xU3atCmYxYOw21YUzjnHV8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\semih\\Desktop\\C# Kodları\\Devam Eden Projeler\\MovieProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\semih\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.17\\microsoft.aspnetcore.cryptography.keyderivation.5.0.17.nupkg.sha512",
